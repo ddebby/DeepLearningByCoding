@@ -33,9 +33,7 @@
 
  
 
-**班级规划**：5-7人学习小组模式
-
- 
+**班级规划**：学习小组模式
 
 **课程规划**
 
@@ -53,3 +51,9 @@
 | 10       | 自然语言处理应用                    |                                |          |
 |          | TBD                                 |                                |          |
 |          | TBD                                 |                                |          |
+
+### 课程资源
+
+1. [官方教学视频](https://course.fast.ai/)
+2. [Notebooks官方github](https://github.com/fastai/fastbook)
+3. 
