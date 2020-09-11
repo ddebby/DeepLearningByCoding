@@ -56,4 +56,4 @@
 
 1. [官方教学视频](https://course.fast.ai/)
 2. [Notebooks官方github](https://github.com/fastai/fastbook)
-3. 
+3. [Forums](https://forums.fast.ai/)
