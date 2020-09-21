@@ -41,7 +41,7 @@
 | -------- | ----------------------------------- | ------------------------------ | ------------------------------------------------------------ |
 | 1        | 人工智能入门                        | 工具、方法、历史渊源、环境准备 | 1. 查看[Link](https://course.fast.ai/start_colab)了解如何在google colab中使用课程notebook；<br>2. 查看[00_app_jupyter.ipynb](00_app_jupyter.ipynb)了解jupyter的使用<br> 2.学习[第一课](https://www.bilibili.com/video/BV14V411U7Hw?from=search&seid=9365735642278974896)；<br>3. 在notebook中完成[01_intro.ipynb](01_intro.ipynb)及课后问题； <br> 4. 有疑问可以去Forum中搜索答案 |
 | 2        | 端到端的人工智能应用开发实战        |                                |                                                              |
-| 3        | 人工智能伦理与道德                  |                                |                                                              |
+| 3        | 人工智能伦理与道德                  |                                |1. 学习notebook：[03_ethics.ipynb](03_ethics.ipynb)了解有关数据伦理道德的知识<br> 2.学习[第五课](https://www.bilibili.com/video/BV1ov411y7D9?p=5)；                                                              |
 | 4        | 二分类-手写数字识别来看人工智能算法 |                                |                                                              |
 | 5        | 多分类-细粒度图像分类               |                                |                                                              |
 | 6        | 图像多标签分类                      |                                |                                                              |
